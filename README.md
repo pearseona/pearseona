@@ -2,9 +2,6 @@
 
 # Hi, I'm Seona 👋
 
-### Contact
-- Email: baesuna2930@gmail.com
-
 ### Activity
 - 한성대학교 컴퓨터공학과 (2022.03 ~ 2027.02 예정)
 
@@ -98,3 +95,8 @@ Tools
     />
   </picture>
 </div>
+
+---
+
+## Contact
+- Email: baesuna2930@gmail.com
