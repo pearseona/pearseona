@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=pearseona's%20GitHub&fontSize=42" />
-
-# Hi, I'm Seona 👋
+<p align="center">
+  <img
+    src="./profile-header.png"
+    width="100%"
+    alt="Hi, I'm pearseona"
+  />
+</p>
 
 ### Activity
 - 한성대학교 컴퓨터공학과 (2022.03 ~ 2027.02 예정)
