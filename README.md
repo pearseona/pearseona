@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=pearseona's%20GitHub&fontSize=42" />
 
-# Hi, I'm Seona Bae 👋
+# Hi, I'm Seona 👋
 
+### Contact
+- Email: baesuna2930@gmail.com
 
 ### Activity
 - 한성대학교 컴퓨터공학과 (2022.03 ~ 2027.02 예정)
@@ -77,5 +79,22 @@ Tools
 
 ---
 
-## Contact
-- Email: baesuna2930@gmail.com
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pearseona/pearseona/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pearseona/pearseona/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/pearseona/pearseona/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</div>
